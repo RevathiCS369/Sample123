@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: indiapost.gov.in
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, graalvm, hibernate-jpa, hibernate-reactive-jpa, hibernate-validator, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, logback, maven, netty-server, postgres, reactor, reactor-http-client, readme, security, security-annotations, security-jwt, shade, test-resources, yaml]
